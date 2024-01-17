@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572534111823",
+    "project_id": "apppushv1",
+    "storage_bucket": "apppushv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572534111823:android:45185aa5802db1ebde743a",
+        "android_client_info": {
+          "package_name": "com.nata.pushnotifi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_N49EU8BiyQMfhse6WcN1Ms01_cRYPnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572534111823:android:cbe856cc73ad2a79de743a",
+        "android_client_info": {
+          "package_name": "com.pushnotifi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_N49EU8BiyQMfhse6WcN1Ms01_cRYPnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
